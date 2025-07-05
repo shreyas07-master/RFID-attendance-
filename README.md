@@ -9,7 +9,12 @@ so this was the major problem statement which has became a basement to our proje
 
 so I made this most fascinating and emerging project which is based on radio frequency network and high data connectivity and update system which is called as smart iot based RF ID attendance system using the robotics and embedded system which is interconnected with the automation and electronics which is integrated with the microcontrollers like Arduino and ESP 32 
 
+Just buy tapping a given Arif ID and tag to the radio frequency module the data of the particular student or faculties or workers or employees will be automatically noted and saved in attendance maintenance document and automatically saved and updated to the respective sector and institution
+
+
+
 APPLICATION:
+
 
 1. Schools, colleges and institutions
 2. Office, companies and corporates
@@ -17,4 +22,7 @@ APPLICATION:
 4. Smart buildings
 5. Construction workers
 6. Home or domestic workers
-7. 
+7. Hospital & Healthcare facilities
+8. Public transports
+9. Security & access control
+10. Libraries etc....
