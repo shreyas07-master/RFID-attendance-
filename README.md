@@ -4,7 +4,7 @@ Smart IOT based RFID attendance login automation project
 It was a burden for evering faculties and students to maintain their login credential & data entry in the attendance to update their presence & absence everyday to their respect to departments & administration of their colleges
 
 
-Due to the uneven formalities in data entry maintenance and login credential updates the institutions and their respected departments get lack of performance in the different expect which causes the unfilled gap in the working days 
+Due to the uneven formalities in data entry maintenance and login credential updates the institutions and their respected departments get lack of performance in the different aspect which causes the unfilled gap in the working days 
 
 
 So this was the major problem statement which has became a basement to our project which we use to work from scratch to the final automation end.
